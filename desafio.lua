@@ -16,7 +16,7 @@ Habilidades
 /
 / CREEPER
 /
-/ Um monstro muito sagaz qe explode na sua cara.
+/ Um monstro muito sagaz que explode na sua cara.
 /
 / Som: Tssssssss
 /
